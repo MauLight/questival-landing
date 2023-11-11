@@ -1,0 +1,19 @@
+{
+  "name": "questival-landing",
+  "version": "1.0.0",
+  "description": "backend of questival landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauLight/questival-landing.git"
+  },
+  "author": "M.Light",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauLight/questival-landing/issues"
+  },
+  "homepage": "https://github.com/MauLight/questival-landing#readme"
+}
