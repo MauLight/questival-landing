@@ -33,7 +33,7 @@ export const Contact = () => {
         viewport={{ once: true, amount: 0.7 }}
         className="hidden sm:flex justify-center items-center w-1/4 border-r border-[#464648]"
       >
-        <img src={mau} className='h-full w-full object-cover' />
+        <img src={mau} className='h-full w-full object-cover opacity-60' />
       </motion.div>
       <motion.div
         variants={fadeInSmall('down', 0.2)}
