@@ -5,8 +5,8 @@ export const Landing = () => {
   return (
     <div className="App justify-center items-center bg-[#10100e] h-screen">
       <div className="flex justify-between fixed w-full py-2 px-10 z-[2] bg-transparent">
-        <h1 className='text-2xl font-title2 text-white glow ippercase'>Questival</h1>
-        <div className='flex font-body text-xl text-white gap-x-4'>
+        <h1 className='text-2xl font-title2 text-white glow uppercase'>Questival</h1>
+        <div className='flex justify-center items-center font-body text-md text-white gap-x-4'>
           <Link to={'/about'}>about</Link>
           <Link to={'/'}>services</Link>
           <Link to={'/'}>pricing</Link>
